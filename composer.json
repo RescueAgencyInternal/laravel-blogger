@@ -1,5 +1,5 @@
 {
-    "name"              : "cswiley/laravel-blogger",
+    "name"              : "rescueagencyinternal/laravel-blogger",
     "description"       : "Laravel blog package",
     "type"              : "library",
     "license"           : "MIT",
